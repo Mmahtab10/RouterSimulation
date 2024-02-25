@@ -1,3 +1,3 @@
 # RouterSimulation
 
-![GUI]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Mmahtab10/RouterSimulation/blob/main/gif.mp4)https://github.com/Mmahtab10/RouterSimulation/blob/main/gif.mp4)
+![GUI](https://github.com/Mmahtab10/RouterSimulation/blob/main/Screen%20Recording%202024-02-24%20at%206.gif)
